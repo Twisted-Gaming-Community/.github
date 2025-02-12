@@ -52,7 +52,7 @@ Welcome to the **InfiniTea Discord Bot** documentation! This page provides an ov
 
 By default, **all features/commands are disabled**.  
 To enable a feature, use:  
-**`/configure <feature>, <feature>, <feature>`**
+**`/configure feature_flags <feature>, <feature>, <feature>`**
 
 ### 🛠 Additional Configurations
 
